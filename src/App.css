@@ -1,0 +1,27 @@
+table{
+    width: 500px;
+    margin: 100px auto;
+    line-height: 2;
+
+
+}
+
+body{
+    background-color: bisque;
+}
+
+tr:nth-child(even){
+background-color: burlywood;
+}
+
+.contact-view{
+    width: fit-content;
+    margin: 100px auto;
+}
+
+button{
+background-color: white;
+border: 1px solid dodgerblue;
+padding: 5px 15px;
+border-radius: 10px;
+}
